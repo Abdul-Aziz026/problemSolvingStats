@@ -10,10 +10,8 @@
 | CSES    | [Abdul_Aziz](https://cses.fi/user/50546)       | 136           |
 | LightOJ    | [abdul_aziz](https://vjudge.net/user/Azizur_Rahman)       | 65           |
 | geeksforgeeks    | [Abdul_Aziz](https://www.geeksforgeeks.org/user/azizulcsebsmrstu1/)       | 13           |
-| Top-Coder    | [Abdul_Aziz](https://www.geeksforgeeks.org/user/azizulcsebsmrstu1/)       | 13           |
-| HackerRank    | [Abdul_Aziz](https://www.geeksforgeeks.org/user/azizulcsebsmrstu1/)       | 13           |
-| UVa    | [Abdul_Aziz](https://www.geeksforgeeks.org/user/azizulcsebsmrstu1/)       | 13           |
 | SPOJ    | [Abdul_Aziz](https://www.geeksforgeeks.org/user/azizulcsebsmrstu1/)       | 10           |
+| UVa    | [Azizur Rahman](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       | 6           |
 
 
 
