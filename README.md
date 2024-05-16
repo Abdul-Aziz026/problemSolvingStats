@@ -1,4 +1,4 @@
-# ProblemSolvingStats
+# Problem Solving Statistics
 
 | OJ         | Username                                     | Solve-Count |
 |------------|----------------------------------------------|-------------|
