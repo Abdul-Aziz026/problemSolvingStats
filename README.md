@@ -12,7 +12,7 @@
 | geeksforgeeks    | [Abdul_Aziz](https://www.geeksforgeeks.org/user/azizulcsebsmrstu1/)       | 13           |
 | SPOJ    | [Abdul_Aziz](https://www.geeksforgeeks.org/user/azizulcsebsmrstu1/)       | 10           |
 | UVa    | [Azizur Rahman](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       | 6           |
-| OTHERS    | [TopCoder,Timus, HackerRank, HackerEarth]       | 300+           |
+| OTHERS    | [TopCoder,Timus, HackerRank, HackerEarth]       | 200+           |
 
 
 Last Updated 15 May, 2024.
